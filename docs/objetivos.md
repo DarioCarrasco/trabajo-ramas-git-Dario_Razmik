@@ -1,0 +1,3 @@
+- Terminar la tarea de git
+- Aprender a utilizar las ramas
+- Aprender a trabajar en un solo repositorio dos personas
